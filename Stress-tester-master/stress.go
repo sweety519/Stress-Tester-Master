@@ -1,6 +1,5 @@
 /*
-Coded By Leeon123
-Date: 12/5/2019
+
 |------------------------------------------------|
 |  This tool is a server stress test tool,       |
 |  It is only use for testing server firewall    |
@@ -117,7 +116,7 @@ func init() {
 func main() {
 	fmt.Println("|--------------------------------------|")
 	fmt.Println("|   Golang : Server Stress Test Tool   |")
-	fmt.Println("|          C0d3d By Lee0n123           |")
+	fmt.Println("|                                      |")
 	fmt.Println("|--------------------------------------|")
 	if len(os.Args) != 7 {
 		fmt.Printf("Usage: %s host port mode connections seconds timeout(second)\r\n", os.Args[0])

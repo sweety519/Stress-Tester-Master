@@ -12,11 +12,10 @@ Improved the all stress test method.
 This tool only used for testing server and education,
 
 not for any criminal activity.
-## Example:
-![Example](https://raw.githubusercontent.com/Leeon123/Stress-tester/master/test.png)
+
 ## Download:
 
-    git clone https://github.com/Leeon123/Stress-tester.git
+    git clone https://github.com/sweety519/Stress-tester.git
     cd Stress-test
 
 ## Usage:
